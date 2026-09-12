@@ -1,0 +1,12 @@
+{
+  "готово": [
+    "base",
+    "bowl",
+    "stalks",
+    "linen",
+    "flakes"
+  ],
+  "ошибки": [
+    "linen: ComfyUI вернул ошибку: {\"status_str\": \"error\", \"completed\": false, \"messages\": [[\"executio"
+  ]
+}

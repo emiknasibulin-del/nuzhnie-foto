@@ -1,0 +1,16 @@
+{
+ "готово": [
+  "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\env_b\\envb_970977.png",
+  "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\env_b\\envb_101011.png",
+  "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\env_b\\envb_990999.png",
+  "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\env_b\\envb_980988.png"
+ ],
+ "ошибки": [
+  "980988: ComfyUI вернул ошибку: {\"status_str\": \"error\", \"completed\": false, \"me",
+  "990999: ComfyUI вернул ошибку: {\"status_str\": \"error\", \"completed\": false, \"me",
+  "980988: пустой кадр",
+  "980988: пустой кадр",
+  "980988: ComfyUI вернул ошибку: {\"status_str\": \"error\", \"completed\": false, \"me"
+ ],
+ "промпт": "appetizing breakfast still life, large bowl of creamy cooked oatmeal porridge with a spoon, raw rolled oat flakes scattered on the table, warm light oak wood table surface, soft golden morning window light, warm amber and cream palette with one deep blue ceramic accent, cosy scandinavian kitchen softly blurred in the background, rich saturated natural colors, appetizing commercial food photography, shallow depth of field, high detail, eye-level camera"
+}

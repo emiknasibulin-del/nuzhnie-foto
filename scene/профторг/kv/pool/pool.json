@@ -1,0 +1,31 @@
+{
+  "готово": [
+    {
+      "роль": "linen",
+      "сид": 606071,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\kv\\pool\\linen_606071.png",
+      "разброс": 42.5
+    },
+    {
+      "роль": "linen",
+      "сид": 919293,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\kv\\pool\\linen_919293.png",
+      "разброс": 40.0
+    },
+    {
+      "роль": "flakes",
+      "сид": 919293,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\kv\\pool\\flakes_919293.png",
+      "разброс": 51.0
+    },
+    {
+      "роль": "flakes",
+      "сид": 606071,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\kv\\pool\\flakes_606071.png",
+      "разброс": 70.6
+    }
+  ],
+  "ошибки": [
+    "flakes/606071: ComfyUI вернул ошибку: {\"status_str\": \"error\", \"completed\": false, \"messages\": ["
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "профиль_canny": {
+    "strength": 0.7,
+    "start": 0.0,
+    "end": 0.45
+  },
+  "область": [
+    0.3349,
+    0.2455,
+    0.5294,
+    0.6497
+  ],
+  "готово": [
+    {
+      "local_strength": 0.7,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\region\\P1_L70.png"
+    },
+    {
+      "local_strength": 1.0,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\region\\P1_L100.png"
+    },
+    {
+      "local_strength": 1.3,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\region\\P1_L130.png"
+    },
+    {
+      "local_strength": 1.6,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\region\\P1_L160.png"
+    }
+  ],
+  "ошибки": [],
+  "попыток": 4
+}

@@ -1,0 +1,51 @@
+{
+  "слот": {
+    "лев": 320,
+    "верх": 267,
+    "W": 350,
+    "H": 573,
+    "низ": 840,
+    "холст": [
+      768,
+      1024
+    ],
+    "доля_ширины": 0.456,
+    "боковая": 63
+  },
+  "готово": [
+    {
+      "направление": "S1",
+      "сид": 771103,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\stage1\\S1_771103.png"
+    },
+    {
+      "направление": "S1",
+      "сид": 344219,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\stage1\\S1_344219.png"
+    },
+    {
+      "направление": "S2",
+      "сид": 771103,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\stage1\\S2_771103.png"
+    },
+    {
+      "направление": "S2",
+      "сид": 344219,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\stage1\\S2_344219.png"
+    },
+    {
+      "направление": "S3",
+      "сид": 771103,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\stage1\\S3_771103.png"
+    },
+    {
+      "направление": "S3",
+      "сид": 344219,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\stage1\\S3_344219.png"
+    }
+  ],
+  "ошибки": [
+    "S2/771103: ComfyUI вернул ошибку: {\"status_str\": \"error\", \"completed\": false, \"messages\": [[\"executio",
+    "S3/771103: ComfyUI вернул ошибку: {\"status_str\": \"error\", \"completed\": false, \"messages\": [[\"executio"
+  ]
+}

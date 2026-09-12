@@ -1,0 +1,26 @@
+{
+  "эталон": {
+    "HORIZON_Y": 840,
+    "NAVY_EDGE_X": 697
+  },
+  "варианты": [
+    {
+      "denoise": 0.12,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\harm\\H12.png",
+      "HORIZON_DRIFT_PX": 0,
+      "NAVY_EDGE_DRIFT_PX": 1
+    },
+    {
+      "denoise": 0.18,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\harm\\H18.png",
+      "HORIZON_DRIFT_PX": 0,
+      "NAVY_EDGE_DRIFT_PX": 1
+    },
+    {
+      "denoise": 0.24,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\harm\\H24.png",
+      "HORIZON_DRIFT_PX": 0,
+      "NAVY_EDGE_DRIFT_PX": 1
+    }
+  ]
+}

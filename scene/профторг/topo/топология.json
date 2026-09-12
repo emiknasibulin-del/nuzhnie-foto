@@ -1,0 +1,23 @@
+{
+  "локальная_сила": 0.55,
+  "профиль_canny": {
+    "strength": 0.7,
+    "start": 0.0,
+    "end": 0.45
+  },
+  "готово": [
+    {
+      "топология": "A",
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\topo\\P1_A.png"
+    },
+    {
+      "топология": "B",
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\topo\\P1_B.png"
+    },
+    {
+      "топология": "C",
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\topo\\P1_C.png"
+    }
+  ],
+  "ошибки": []
+}

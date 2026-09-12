@@ -1,0 +1,20 @@
+{
+  "сцена": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\topo\\P1_C.png",
+  "готово": [
+    {
+      "сила": 0.8,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\hero\\P1_proxy_80.png"
+    },
+    {
+      "сила": 1.0,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\hero\\P1_proxy_100.png"
+    },
+    {
+      "сила": 1.2,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\hero\\P1_proxy_120.png"
+    }
+  ],
+  "ошибки": [
+    "1.2: ComfyUI вернул ошибку: {\"status_str\": \"error\", \"completed\": false, \"messages\": [[\"execution_start\", {\"prompt_id\": \"b6c1d"
+  ]
+}

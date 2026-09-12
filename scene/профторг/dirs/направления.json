@@ -1,0 +1,43 @@
+{
+  "профиль": {
+    "strength": 0.7,
+    "start": 0.0,
+    "end": 0.45
+  },
+  "готово": [
+    {
+      "направление": "S1",
+      "сид": 771103,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\dirs\\S1_771103.png"
+    },
+    {
+      "направление": "S1",
+      "сид": 344219,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\dirs\\S1_344219.png"
+    },
+    {
+      "направление": "S2",
+      "сид": 771103,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\dirs\\S2_771103.png"
+    },
+    {
+      "направление": "S2",
+      "сид": 344219,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\dirs\\S2_344219.png"
+    },
+    {
+      "направление": "S3",
+      "сид": 771103,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\dirs\\S3_771103.png"
+    },
+    {
+      "направление": "S3",
+      "сид": 344219,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\dirs\\S3_344219.png"
+    }
+  ],
+  "ошибки": [
+    "S2/771103: ComfyUI вернул ошибку: {\"status_str\": \"error\", \"completed\": false, \"messages\": [[\"executio"
+  ],
+  "попыток": 7
+}

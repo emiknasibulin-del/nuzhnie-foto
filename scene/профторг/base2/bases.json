@@ -1,0 +1,39 @@
+{
+  "готово": [
+    {
+      "направление": "A",
+      "сид": 313131,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\base2\\base_A_313131.png"
+    },
+    {
+      "направление": "A",
+      "сид": 727272,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\base2\\base_A_727272.png"
+    },
+    {
+      "направление": "C",
+      "сид": 313131,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\base2\\base_C_313131.png"
+    },
+    {
+      "направление": "C",
+      "сид": 727272,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\base2\\base_C_727272.png"
+    },
+    {
+      "направление": "B",
+      "сид": 727272,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\base2\\base_B_727272.png"
+    },
+    {
+      "направление": "B",
+      "сид": 313131,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\base2\\base_B_313131.png"
+    }
+  ],
+  "ошибки": [
+    "B/313131: пустой кадр",
+    "B/727272: ComfyUI вернул ошибку: {\"status_str\": \"error\", \"completed\": false, \"messages\": [",
+    "B/313131: ComfyUI вернул ошибку: {\"status_str\": \"error\", \"completed\": false, \"messages\": ["
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "карта": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\canny\\control_P1.png",
+  "готово": [
+    {
+      "сила": 0.55,
+      "конец": 0.45,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\canny\\P1_s55_e45.png"
+    },
+    {
+      "сила": 0.55,
+      "конец": 0.6,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\canny\\P1_s55_e60.png"
+    },
+    {
+      "сила": 0.55,
+      "конец": 0.75,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\canny\\P1_s55_e75.png"
+    },
+    {
+      "сила": 0.7,
+      "конец": 0.45,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\canny\\P1_s70_e45.png"
+    },
+    {
+      "сила": 0.7,
+      "конец": 0.6,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\canny\\P1_s70_e60.png"
+    },
+    {
+      "сила": 0.7,
+      "конец": 0.75,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\canny\\P1_s70_e75.png"
+    },
+    {
+      "сила": 0.85,
+      "конец": 0.45,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\canny\\P1_s85_e45.png"
+    },
+    {
+      "сила": 0.85,
+      "конец": 0.6,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\canny\\P1_s85_e60.png"
+    },
+    {
+      "сила": 0.85,
+      "конец": 0.75,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\canny\\P1_s85_e75.png"
+    }
+  ],
+  "ошибки": [],
+  "попыток": 9
+}

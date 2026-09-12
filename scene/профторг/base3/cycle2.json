@@ -1,0 +1,22 @@
+{
+  "готово": [
+    {
+      "вариант": "B1",
+      "сид": 404041,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\base3\\B1_404041.png"
+    },
+    {
+      "вариант": "B2",
+      "сид": 616263,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\base3\\B2_616263.png"
+    },
+    {
+      "вариант": "B3",
+      "сид": 858687,
+      "файл": "C:\\Users\\emikn\\Desktop\\nuzhnie-foto\\scene\\профторг\\base3\\B3_858687.png"
+    }
+  ],
+  "ошибки": [
+    "B3: ComfyUI вернул ошибку: {\"status_str\": \"error\", \"completed\": false, \"messages\": ["
+  ]
+}
